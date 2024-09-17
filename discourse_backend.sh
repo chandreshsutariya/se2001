@@ -1,0 +1,1 @@
+cd discourse && d/rails s;
