@@ -1,0 +1,1 @@
+cd code/backend && python3 app.py;
